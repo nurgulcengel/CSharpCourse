@@ -12,7 +12,7 @@ namespace DictionaryOdev
         {
 
             Mydictionary<string> mydictionary = new Mydictionary<string>();
-            mydictionary.Add("Niloş Baggins");
+            mydictionary.Add("Frodo Baggins");
             mydictionary.Add("Bilbo Baggins");
             mydictionary.Add("Çuçi Baggins");
             mydictionary.Add("Kuki Baggins");
