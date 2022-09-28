@@ -13,22 +13,22 @@ namespace MusteriOdevi
             Customer customer1 = new Customer();
             customer1.CustomerId = 07;
             customer1.CustomerTc = "Tc : 46066871770";
-            customer1.CustomerName = "Nilos";
-            customer1.CustomerSurname = "Baggins";
-            customer1.CustomerTel = "05348160031";
+            customer1.CustomerName = "Ali";
+            customer1.CustomerSurname = "Akyürek";
+            customer1.CustomerTel = "05349698877";
 
             Customer customer2 = new Customer();
             customer2.CustomerId = 03;
             customer2.CustomerTc = "Tc: 10066871030";
-            customer2.CustomerName = "Bilbo";
-            customer2.CustomerSurname = "Baggins";
-            customer2.CustomerTel = "05396164273";
+            customer2.CustomerName = "Ayşe";
+            customer2.CustomerSurname = "Çiçek";
+            customer2.CustomerTel = "05369875425";
 
             Customer customer3 = new Customer();
             customer3.CustomerId = 19;
             customer3.CustomerTc = "Tc : 80766971050";
-            customer3.CustomerName = "Çuçi";
-            customer3.CustomerSurname = "Baggins";
+            customer3.CustomerName = "Papatya";
+            customer3.CustomerSurname = "Şimşek";
             customer3.CustomerTel = "05356160072";
 
 
